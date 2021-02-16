@@ -56,15 +56,15 @@ h1 - h6 head tags
 
 Example:
 
-# Project Title
-A blurb about your project; what is it?
+# Reddit API Fight APP
+A web application that uses reddit's API to find the most controversial posts and displays them giving the user a safe place to release stress via arguing.
 
 ### Motivation
-A short description about why you built this app.
+I am building this app as a part of my second project for General Assemblies Software Engineering bootcamp.
 
 ---
 ### Screenshots
-screen captures of your app
+[WireFrames]
 
 ---
 ### User Stories & Wireframes
@@ -72,9 +72,8 @@ The planning materials used to build this app.
 * High-level user stories.
 * image files of wireframes
 
-![wireframe 1](./assets/wirefram3.jpg)
+![wireframe 1](./wireframes.jpeg)
 
-![wireframe 2](./assets/wireframe-example-1.png)
 
 ---
 ### Technologies & Code Snippets
